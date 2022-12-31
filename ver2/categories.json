@@ -19,8 +19,7 @@
     ],
     "payment_min_amounts": [
         "No",
-        "Yes",
-        "Unknown"
+        "Yes"
     ],
     "payment_behaviours": [
         "High_spent_Large_value_payments",
@@ -28,14 +27,12 @@
         "High_spent_Small_value_payments",
         "Low_spent_Large_value_payments",
         "Low_spent_Medium_value_payments",
-        "Low_spent_Small_value_payments",
-        "Unknown"
+        "Low_spent_Small_value_payments"
     ],
     "credit_mixs": [
         "Bad",
         "Standard",
-        "Good",
-        "Unknown"
+        "Good"
     ],
     "credit_scores": [
         "Poor",
@@ -43,14 +40,14 @@
         "Good"
     ],
     "loans": [
+        "Personal Loan",
+        "Home Equity Loan",
         "Auto Loan",
-        "Student Loan",
+        "Mortgage Loan",
         "Payday Loan",
         "Credit-Builder Loan",
-        "Personal Loan",
-        "Mortgage Loan",
+        "Student Loan",
         "Debt Consolidation Loan",
-        "Not Specified",
-        "Home Equity Loan"
+        "Not Specified"
     ]
 }
