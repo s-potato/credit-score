@@ -28,6 +28,7 @@
     - Sử dụng dữ liệu đã xử lý, dataset.csv từ Version 2.
     - Chạy file train_hyperparams.ipynb
     - Kết quả thu được là mô hình được lưu lại bằng pickle: model.pkl
+    - Do quá trình hyperparams tuning tốn rất nhiều thời gian, có thể comment để bỏ qua bước đó và set hyperparams max_depth=25 và criterion='entropy'
 5. Predict
     - Sử dụng file test.csv làm đầu vào, và model.pkl thu được từ bước train
     - Chạy file dt_predict.ipynb hoặc predict.py để nhận đầu vào từ người dùng.
