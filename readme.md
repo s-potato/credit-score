@@ -30,6 +30,6 @@
     - Kết quả thu được là mô hình được lưu lại bằng pickle: model.pkl
 5. Predict
     - Sử dụng file test.csv làm đầu vào, và model.pkl thu được từ bước train
-    - Chạy file dt_predict.ipynb
+    - Chạy file dt_predict.ipynb hoặc predict.py để nhận đầu vào từ người dùng.
 
 📝ipynb có thể chạy bằng cách khởi tạo Jupter Notebook theo [hướng dẫn](https://docs.jupyter.org/en/latest/running.html) hoặc sử dụng IDE có hỗ trợ như VSCode.
