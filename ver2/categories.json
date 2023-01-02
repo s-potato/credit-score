@@ -1,0 +1,53 @@
+{
+    "occupations": [
+        "Accountant",
+        "Architect",
+        "Developer",
+        "Doctor",
+        "Engineer",
+        "Entrepreneur",
+        "Journalist",
+        "Lawyer",
+        "Manager",
+        "Mechanic",
+        "Media_Manager",
+        "Musician",
+        "Scientist",
+        "Teacher",
+        "Writer",
+        "Unknown"
+    ],
+    "payment_min_amounts": [
+        "No",
+        "Yes"
+    ],
+    "payment_behaviours": [
+        "High_spent_Large_value_payments",
+        "High_spent_Medium_value_payments",
+        "High_spent_Small_value_payments",
+        "Low_spent_Large_value_payments",
+        "Low_spent_Medium_value_payments",
+        "Low_spent_Small_value_payments"
+    ],
+    "credit_mixs": [
+        "Bad",
+        "Standard",
+        "Good"
+    ],
+    "credit_scores": [
+        "Poor",
+        "Standard",
+        "Good"
+    ],
+    "loans": [
+        "Personal Loan",
+        "Home Equity Loan",
+        "Auto Loan",
+        "Mortgage Loan",
+        "Payday Loan",
+        "Credit-Builder Loan",
+        "Student Loan",
+        "Debt Consolidation Loan",
+        "Not Specified"
+    ]
+}
